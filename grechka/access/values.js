@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "28.09.1980"; // Дата рождения
+var birthdate = "28.09.2005"; // Дата рождения
 var fullname = "Прокопенко Анна Богданівна" // ФИО
 var name = "Анна" // Имя
 
